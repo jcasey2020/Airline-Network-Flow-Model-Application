@@ -1,2 +1,2 @@
 # Airline-Network-Flow-Model-Application
-The application optimizes the locations of airline hubs and hangars to minimize the cost of connecting flights between California and New York. 
+This application uses Gurobi Optimization to implement a network flow model that minimizes the cost of connecting flights between California and New York by optimizing the locations of airline hubs and hangars.
